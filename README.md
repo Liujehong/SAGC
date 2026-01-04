@@ -22,6 +22,7 @@ Hyperspectral images are severely affected by mixed-pixel effects, whereas LiDAR
 To quickly run a demo of the proposed method, simply execute:
 ```bash
 python demo.py
+```
 
 ## 📖 Citation
 If you find this work useful, please consider citing:
@@ -37,7 +38,7 @@ If you find this work useful, please consider citing:
   pages={1-15},
   keywords={Hyperspectral imaging;Vectors;Laser radar;Scalability;Clustering methods;Optimization;Land surface;Earth;Clustering algorithms;Accuracy;Anchor graph learning;deep learning;hyperspectral (HS) unmixing (HU);multimodal remote sensing (RS)},
   doi={10.1109/TGRS.2025.3644663}}
-
+```
 
 
 
