@@ -14,7 +14,7 @@ Hyperspectral images are severely affected by mixed-pixel effects, whereas LiDAR
 
 
 <p align="center">
-  <img src="figures/motivation.png" width="700">
+  <img src="figures/motivation.pdf" width="700">
 </p>
 
 🚀 Quick Start
