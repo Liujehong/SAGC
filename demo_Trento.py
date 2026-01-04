@@ -261,7 +261,6 @@ if __name__ == "__main__":
     centroids_K_means = Kmeans.centroids.cpu().numpy()
     centroids_modality1 = select_anchor_from_vca_kmeans_union(centroids_K_means,centorid_from_vca,anchor_num)
     modality2 = x_pca[1].reshape(-1, x_pca[1].shape[-1])
-    # modality2_nopca = x_nopca[1].reshape(-1, x_nopca[1].shape[-1])
     centroids_modality2 = []
     for i in range(anchor_num):
         indices = np.where(cluster_labels.cpu().numpy() == i)[0]
