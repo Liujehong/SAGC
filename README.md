@@ -21,7 +21,7 @@ Hyperspectral images are severely affected by mixed-pixel effects, whereas LiDAR
 
 To quickly run a demo of the proposed method, simply execute:
 ```bash
-python demo.py
+python demo_Trento.py
 ```
 
 ## 📖 Citation
@@ -34,7 +34,7 @@ If you find this work useful, please consider citing:
   title={Subpixel Anchor Graph for Multimodal Clustering of Hyperspectral and LiDAR Data}, 
   year={2025},
   volume={63},
-  number={},
+  number={5536915},
   pages={1-15},
   keywords={Hyperspectral imaging;Vectors;Laser radar;Scalability;Clustering methods;Optimization;Land surface;Earth;Clustering algorithms;Accuracy;Anchor graph learning;deep learning;hyperspectral (HS) unmixing (HU);multimodal remote sensing (RS)},
   doi={10.1109/TGRS.2025.3644663}}
