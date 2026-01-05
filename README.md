@@ -17,7 +17,7 @@ Hyperspectral images are severely affected by mixed-pixel effects, whereas LiDAR
   <img src="figures/motivation.png" width="700">
 </p>
 
-🚀 Quick Start
+## 🚀 Quick Start
 
 To quickly run a demo of the proposed method, simply execute:
 ```bash
